@@ -1,5 +1,5 @@
 # actividad2
 
-Itziar
-
-Juan Cruz
+Itziar Mariana Sebedio
+Franco Fantini
+Juan Cruz Toloza
