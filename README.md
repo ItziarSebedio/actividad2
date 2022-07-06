@@ -1,6 +1,6 @@
 # actividad2
 
-Itziar Mariana Sebedio
+Itziar Sebedio
 Franco Fantini
 Juan Cruz Toloza
 Ramiro Castro
